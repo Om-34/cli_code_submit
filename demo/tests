@@ -1,0 +1,7 @@
+testcase
+datatype_int[]
+input
+3 3
+expected_output
+6
+testcaseend
